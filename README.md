@@ -108,8 +108,8 @@
     - [x ] Using the What-If Tool with Image Recognition Models
     - [x ] Using the What-if Tool Performance & Fairness Features
     - [x ] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
-    - [ ] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
-    - [ ] Explore Machine Learning Models with Explainable AI: Challenge Lab
+    - [ X] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
+    - [X ] Explore Machine Learning Models with Explainable AI: Challenge Lab
 
 
 ### Best Wishes folks !! #30DaysOfGoogleCloud
